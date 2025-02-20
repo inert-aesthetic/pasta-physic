@@ -1,0 +1,12 @@
+{
+    "name": "pasta-physic",
+    "url" : "https://github.com/inert-aesthetic/pasta-physic",
+    "license": "MIT",
+    "tags": ["physics"],
+    "description": "Physics library",
+    "version": "0.0.1",
+    "classPath": "com/",
+    "releasenote": "Untested, not for production use",
+    "contributors": ["inert-aesthetic"],
+    "dependencies": {}
+  }

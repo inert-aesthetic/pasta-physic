@@ -1,0 +1,4 @@
+-cp com
+-hl out/hl/pftest.hl
+-main PFTest
+-debug
