@@ -1,5 +1,9 @@
-# pasta-physic
+MOVED TO CODEBERG !!
 
-Used by thinglib.
+https://codeberg.org/inert_aesthetic/pasta-physic
 
-Breaking changes with no warning or changelog.
+https://codeberg.org/inert_aesthetic/pasta-physic
+
+https://codeberg.org/inert_aesthetic/pasta-physic
+
+This is not the place to be.
